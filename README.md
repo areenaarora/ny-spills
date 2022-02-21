@@ -25,5 +25,5 @@ Downloaded data for five years from NY state's open data website. Cleaned and an
 These led to more questions which were further explored and plotted using Plotnine.
 
 ##### Repository contents
-[Jupyter Notebook with the analysis](https://github.com/areenaarora/ny-spills/blob/main/spill-data-five-years.ipynb)
-[Raw data in CSV format](https://github.com/areenaarora/ny-spills/blob/main/five-years-spill_incidents.csv)
+- [Jupyter Notebook with the analysis](https://github.com/areenaarora/ny-spills/blob/main/spill-data-five-years.ipynb)
+- [Raw data in CSV format](https://github.com/areenaarora/ny-spills/blob/main/five-years-spill_incidents.csv)
