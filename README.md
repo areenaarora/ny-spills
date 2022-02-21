@@ -2,7 +2,7 @@
 
 
 ##### Data source: 
-[New York State Open Data](https://data.ny.gov/Energy-Environment/Spill-Incidents/u44d-k5fk)
+[New York State Open Data](https://data.ny.gov/Energy-Environment/Spill-Incidents/u44d-k5fk), data maintained by New York State Department of Environmental Conservation
 
 ##### Goal of the project: 
 The dataset contains details of when and where spills occured, time taken to close the incident on file and amount of spillage recovered, if any. The idea is to look through the dataset of over 61,000 entries to find patterns in where most spills occur, what resources are affected and how much spillage is recovered. This is a work in progress and the idea is to find answers that arise from here, mostly surrounding the state government's processing of these hazardous spills.
